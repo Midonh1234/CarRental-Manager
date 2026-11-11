@@ -1,0 +1,6 @@
+{
+  "name": "CARRENTAL MANAGER 🇩🇿",
+  "description": "Application professionnelle de gestion d'agence de location de voitures en Algérie : flotte, clients, réservations, locations, contrats PDF, paiements CCP/espèces, cautions et entretiens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
